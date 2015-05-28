@@ -1,0 +1,10 @@
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Debug\MyClient.csprojResolveAssemblyReference.cache
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Debug\MyClient.Form1.resources
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Debug\MyClient.Properties.Resources.resources
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Debug\MyClient.csproj.GenerateResource.Cache
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Debug\MyClient.pdb
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Debug\MyClient.Settings.resources

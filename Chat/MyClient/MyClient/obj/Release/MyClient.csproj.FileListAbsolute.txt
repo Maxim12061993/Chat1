@@ -1,0 +1,9 @@
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\bin\Release\MyClient.exe
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\bin\Release\MyClient.exe.config
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Release\MyClient.Form1.resources
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Release\MyClient.Properties.Resources.resources
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Release\MyClient.Settings.resources
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Release\MyClient.csproj.GenerateResource.Cache
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\bin\Release\MyClient.pdb
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Release\MyClient.exe
+C:\Users\Максим\OneDrive\Наработки\MyClient\MyClient\obj\Release\MyClient.pdb
